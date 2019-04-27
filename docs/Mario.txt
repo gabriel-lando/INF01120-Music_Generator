@@ -1,0 +1,24 @@
+!   ....pp E p E p E pp
+!C p E pp G.........ppp G ppp
+
+!pp.C.........ppp G ppp E
+!ppp A pp B pp A p A
+!pp G.p E p G p A
+!pp F p G pp E pp C p D p.........B
+
+!ppp.C ppp.........G ppp E
+!ppp A pp B pp A p A
+!pp G p.E p G p A
+!ppp F p G pp E pp C p D  p.........B
+
+!pppppp.G p F p F p D pp E
+!p.........G p A p.C
+!pp.........A p .C p D
+!ppp G p F p F p D pp E
+!pp .C pp C p C
+
+!ppppp.........G p F p F p D pp E
+!pp.........G p A p.C
+!pp.........A p .C p D
+!ppp E ppp D ppp C p
+!p
