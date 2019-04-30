@@ -26,4 +26,4 @@ Técnica de Construção de Programas (INF01120) - INF-UFRGS
 
 - [Eduardo Spitzer Fischer](https://github.com/eduardofischer/)
 - [Gabriel Lando](https://github.com/gabriel-lando/)
-- Rodrigo Paranhos Bastos
+- [Rodrigo Paranhos Bastos](https://github.com/ropbastos/)
